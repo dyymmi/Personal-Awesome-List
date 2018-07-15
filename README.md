@@ -4,10 +4,10 @@ Repository of all interesting, valuable, awesome and helpful links, resources an
 ### Contents 📖
 
 - [Personal Awesome List](#personal-awesome-list)
-    - [Security/Pentesting](#securitypentesting)
-    - [Development](#development)
-    - [Development tutorials](#development-tutorials)
-    - [Useful tools](#useful-tools)
+    - [Security/Pentesting](#securitypentesting-)
+    - [Development](#development-)
+    - [Development tutorials](#development-tutorials-)
+    - [Useful tools](#useful-tools-)
     
 ## Security/Pentesting 🔒
 
