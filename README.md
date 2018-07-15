@@ -1,12 +1,12 @@
 # Personal Awesome List
 Repository of all interesting, valuable, awesome and helpful links, resources and everything derserving to be saved
 
-### Contents
+### Contents 📖
 
 - [Personal Awesome List](#personal-awesome-list)
     - [Security/Pentesting](#audio-and-music)
     
-## Security/Pentesting
+## Security/Pentesting 🔒
 
 *Blogs, portals, pages, tools, podcasts related to pentesting or security*
 
@@ -19,7 +19,7 @@ Repository of all interesting, valuable, awesome and helpful links, resources an
 * [Pentester Academy] (https://www.pentesteracademy.com/) - Learn Pentesting Online
 * [Security Planner] (https://securityplanner.org/#/) - Answer a few simple questions to get personalized online safety recommendations. 
 
-## Development 
+## Development 💻
 
 *Blogs, portals, pages, tools, podcasts related to development or learning programming*
 
@@ -31,14 +31,14 @@ Repository of all interesting, valuable, awesome and helpful links, resources an
 * [Code Triage] (https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
 
 
-## Development tutorials
+## Development tutorials 📕
 
 *Valuable pages containing useful tips and tutorials and guides
 
 * [Vue Handbook] (https://vuehandbook.com/)
 * [Git Branching] (https://nvie.com/posts/a-successful-git-branching-model/) - A successful Git branching model
 
-## Useful Tools
+## Useful Tools 🛠
 
 *Just tools that serve different purposes and are truly deserving to be here*
 
