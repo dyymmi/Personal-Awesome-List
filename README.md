@@ -57,11 +57,11 @@ Repository of all interesting, valuable, awesome and helpful links, resources an
 
 *Tutorials and articles related to software testing and automation*
 
-*[Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium/) - Advanced Python web automation techniques: using Selenium with a “headless” browser, exporting the scraped data to CSV files, and wrapping scraping code in a Python class.
+* [Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium/) - Advanced Python web automation techniques: using Selenium with a “headless” browser, exporting the scraped data to CSV files, and wrapping scraping code in a Python class.
 
 ## Other :clipboard:
 
 *Things that do not match any of above categories or match many of them*
 
-*[Types of questions to ask team members before accepting role](https://news.ycombinator.com/item?id=17908547) - What kinds of questions would you ask coworkers before you begin working with them and accepting a role?
+* [Types of questions to ask team members before accepting role](https://news.ycombinator.com/item?id=17908547) - What kinds of questions would you ask coworkers before you begin working with them and accepting a role?
 
