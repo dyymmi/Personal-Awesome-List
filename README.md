@@ -20,7 +20,9 @@ Repository of all interesting, valuable, awesome and helpful links, resources an
 * [OverTheWire: Wargames](http://overthewire.org/wargames/) - The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 * [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Bootcamp provides a learning path to get into security and especially web penetration testing.
 * [Pentester Academy](https://www.pentesteracademy.com/) - Learn Pentesting Online
-* [Security Planner](https://securityplanner.org/#/) - Answer a few simple questions to get personalized online safety recommendations. 
+* [Security Planner](https://securityplanner.org/#/) - Answer a few simple questions to get personalized online safety recommendations.
+* [IT-Security Notepad](https://xapax.gitbooks.io/security/) - Notepad about stuff related to IT-security. Specifically penetration testing. "Stuff I have come across that I don't feel like googeling again."
+* [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html) - Official release schedule for Dr. Owen Redwood’s Offensive Computer Security (OCS) 2.0! Course includes lectures and exercises.
 
 ## Development 💻
 
@@ -32,17 +34,32 @@ Repository of all interesting, valuable, awesome and helpful links, resources an
 * [Buy Me A Coffee](https://www.buymeacoffee.com/) - A free, fast and beautiful way for creators to receive support and share premium content.
 * [Material Design](https://material.io/) - Everything you need to start building – including open-source code, documentation, and tutorials for cross-platform development.
 * [Code Triage](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
+*[50 Things You [Probably] Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - Every PM: “I’m not mad, I’m just disappointed…”
 
 
 ## Development tutorials 📕
 
-*Valuable pages containing useful tips and tutorials and guides
+*Valuable pages containing useful tips and tutorials and guides*
 
 * [Vue Handbook](https://vuehandbook.com/)
 * [Git Branching](https://nvie.com/posts/a-successful-git-branching-model/) - A successful Git branching model
+* [JUnit Tutorial for Unit Testing](https://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html) - The ULTIMATE Guide
 
 ## Useful Tools 🛠
 
 *Just tools that serve different purposes and are truly deserving to be here*
 
 * [Mathpix](https://mathpix.com/) - The Mathpix desktop app allows users to take screenshots of math equations and paste the extracted Latex, all with a single keyboard shortcut.
+
+## Testing :mag:
+
+*Tutorials and articles related to software testing and automation*
+
+*[Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium/) - Advanced Python web automation techniques: using Selenium with a “headless” browser, exporting the scraped data to CSV files, and wrapping scraping code in a Python class.
+
+## Other :clipboard:
+
+*Things that do not match any of above categories or match many of them*
+
+*[Types of questions to ask team members before accepting role](https://news.ycombinator.com/item?id=17908547) - What kinds of questions would you ask coworkers before you begin working with them and accepting a role?
+
