@@ -8,8 +8,8 @@ Repository of all interesting, valuable, awesome and helpful links, resources an
     - [Development](#development-)
     - [Development tutorials](#development-tutorials-)
     - [Useful tools](#useful-tools-)
-    - [Testing](#Testing-)
-    - [Other](#other-)
+    - [Testing](#testing-mag)
+    - [Other](#other-clipboard)
     
 ## Security/Pentesting 🔒
 
